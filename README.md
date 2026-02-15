@@ -23,7 +23,7 @@ Manual analysis is time-intensive and susceptible to cognitive biases — hence,
 
 ---
 
-## 📊 Dataset Structure
+##  Dataset Structure
 
 ### Dataset Info
 - **Data Source:** Yahoo Finance (yfinance API)
@@ -52,7 +52,7 @@ Implemented through comprehensive data pipeline:
 
 ---
 
-## 🤖 Model Architecture — Ensemble Learning
+## Model Architecture — Ensemble Learning
 
 The system combines two powerful ML models with reinforcement-based weighting for optimal predictions.
 
@@ -80,7 +80,7 @@ The system combines two powerful ML models with reinforcement-based weighting fo
 
 ---
 
-## 🧪 Experimental Setup
+##  Experimental Setup
 
 | Parameter | Value |
 |------------|--------|
