@@ -232,9 +232,5 @@ Bank-Portfolio-AI/
     └── USB_scaler.pkl
 ```
 
----
 
-```
-
----
 
