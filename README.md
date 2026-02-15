@@ -147,11 +147,12 @@ The system generates two main visualizations:
 ### Step 1: Clone or Download the Repository
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/Bank-Portfolio-AI.git
-cd Bank-Portfolio-AI
+# Clone the GitHub repository
+git clone https://github.com/Namaswi24/MonteCarlo-Ensemble-Finance.git
 
-# OR download and extract the ZIP file
+# Navigate into the project folder
+cd MonteCarlo-Ensemble-Finance
+
 ```
 
 **Important:** Make sure you have the complete folder with:
