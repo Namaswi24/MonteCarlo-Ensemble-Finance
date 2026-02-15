@@ -1,11 +1,12 @@
-##  Team Members
-- **Janapareddy Vidya Varshini** – 230041013  
-- **Korubilli Vaishnavi** – 230041016  
-- **Mullapudi Namaswi** – 230041023 
 
 # 🏦 Bank Portfolio AI - Advanced Financial Analysis & Prediction System
 
 A comprehensive machine learning system for analyzing and predicting stock performance of major banking institutions using ensemble learning, LSTM neural networks, and Monte Carlo simulations.
+
+##  Team Members
+- **Janapareddy Vidya Varshini** – 230041013  
+- **Korubilli Vaishnavi** – 230041016  
+- **Mullapudi Namaswi** – 230041023 
 
 ## 📋 Table of Contents
 
