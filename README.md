@@ -165,7 +165,7 @@ cd MonteCarlo-Ensemble-Finance
 
 ```bash
 # Install all required packages
-pip install -r requirements.txt --break-system-packages
+pip install yfinance pandas numpy matplotlib scikit-learn tensorflow keras pickle5 --break-system-packages
 ```
 
 **Required packages:**
