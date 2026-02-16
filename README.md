@@ -154,6 +154,10 @@ git clone https://github.com/Namaswi24/MonteCarlo-Ensemble-Finance.git
 cd MonteCarlo-Ensemble-Finance
 
 ```
+# Create virtual environment (recommended)
+python -m venv venv
+source venv/bin/activate    # For Linux/Mac
+venv\Scripts\activate       # For Windows
 
 **Important:** Make sure you have the complete folder with:
 - `app.py` file
